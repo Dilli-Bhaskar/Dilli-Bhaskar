@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dil-kar&label=Profile%20views&color=0e75b6&style=flat" alt="dil-kar" /> </p>
 
-- 💻 This my personal projects git profile
+- 💻 This is my personal projects Git profile — check out my other profile [here](https://github.com/Dil-kar/).
+  
+- 🔭 I’m currently working on **Reinforcement learning for robotics**.
+  
+- 💬 Ask me about **RL**.  
 
-- 🔭 I’m currently working on **Deep Reinforcement Learning**
-
-- 💬 Ask me about **RL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
